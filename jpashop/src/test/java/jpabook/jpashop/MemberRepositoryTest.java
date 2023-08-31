@@ -15,7 +15,6 @@ public class MemberRepositoryTest {
     @Autowired
     MemberRepository memberRepository;
 
-
     @Test
     @Transactional
     public void testMember() {
