@@ -16,3 +16,4 @@ spring:
 
 logging.level:
   org.hibernate.SQL: debug # hibernate 가 생성하는 모든 SQL 로그가 디버그 모드로 다 찍힌다.
+  org.hibernate.type: trace

@@ -32,5 +32,4 @@ public class MemberRepositoryTest {
 
         Assertions.assertThat(findMember).isEqualTo(member);
     }
-
 }
